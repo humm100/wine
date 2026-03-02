@@ -1,0 +1,67 @@
+{
+    "code": "000",
+    "success": true,
+    "message": "操作成功",
+    "data": {
+        "environment": {
+            "id": "30ce1e8800001e12",
+            "createTime": "2025-12-12 00:30:00",
+            "updateTime": "2025-12-12 11:00:01",
+            "genDate": "2025-12-12",
+            "temperature": 17.6,
+            "oxygen": 20.9,
+            "carbonDioxide": 45.4,
+            "humidity": 67.6,
+            "environment": 81,
+            "temperatureArrow": 0,
+            "oxygenArrow": 0,
+            "carbonDioxideArrow": 1,
+            "humidityArrow": 1
+        },
+        "temperature": "15",
+        "layerData": [
+            {
+                "repositoryId": "0264dc734203c5d7dc",
+                "repositoryName": "1号数字酒库",
+                "layerId": "0",
+                "volume": "450000.00"
+            },
+            {
+                "repositoryId": "0264dc734203c5d7dc",
+                "repositoryName": "1号数字酒库",
+                "layerId": "0264dc76910399cae8",
+                "volume": "112000.00"
+            },
+            {
+                "repositoryId": "0264dc734203c5d7dc",
+                "repositoryName": "1号数字酒库",
+                "layerId": "0264dc76b901fc92ec",
+                "volume": "102000.00"
+            },
+            {
+                "repositoryId": "0264dc734203c5d7dc",
+                "repositoryName": "1号数字酒库",
+                "layerId": "0264dc76c20596ec68",
+                "volume": "29000.00"
+            },
+            {
+                "repositoryId": "02663d81c105ccaee8",
+                "repositoryName": "2号数字酒库",
+                "layerId": "02663d8268033d47b4",
+                "volume": "174500.00"
+            },
+            {
+                "repositoryId": "0264dc734203c5d7dc",
+                "repositoryName": "1号数字酒库",
+                "layerId": "0266f281800013e87c",
+                "volume": "10500.00"
+            },
+            {
+                "repositoryId": "0267d8c888021e745c",
+                "repositoryName": "3号数字酒库",
+                "layerId": "0267da169201526f74",
+                "volume": "458500.00"
+            }
+        ]
+    }
+}
